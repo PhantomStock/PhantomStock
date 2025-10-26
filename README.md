@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👨‍💻+Wilson+Campos+|+WilTsuo;💡+Full+Stack+Developer;🌍+English+|+🇧🇷+Português+|+🇯🇵+日本語;🚀+Passionate+About+Code+and+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👨‍💻+Wilson+Campos+|+WilTsuo;🌍+English+|+🇧🇷+Português+|+🇯🇵+日本語;🚀+Passionate+About+Code+and+Innovation" alt="Typing SVG" />
 
 </div>
 
