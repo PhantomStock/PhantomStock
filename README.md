@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=👨‍💻+Wilson+Campos+|+WilTsuo;💡+Full+Stack+Developer;🌍+English+|+🇧🇷+Português+|+🇯🇵+日本語;🚀+Passionate+About+Code+and+Innovation" alt="Typing SVG" />
 
----
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wiltsuo)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Wiltsuo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilcampos2003@gmail.com)
-
 </div>
 
 ---
@@ -163,7 +157,12 @@ After **6 years living and working in Japan**, I’m now pursuing my passion for
 <div align="center">
 
 ✨ **Versatile, International & Passionate Developer** ✨  
-🌟 *Open to opportunities | Aberto a oportunidades | 機会を求めています* 🌟  
+🌟 *Open to opportunities | Aberto a oportunidades | 機会を求めています* 🌟 
+---
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wiltsuo)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Wiltsuo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilcampos2003@gmail.com)
 ---
 
 <div align="center">
