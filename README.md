@@ -6,16 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilTsuo&theme=radical" width="90%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilTsuo&theme=radical" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilTsuo&theme=radical" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilTsuo&theme=radical" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilTsuo&theme=radical&utcOffset=+0" width="45%"/>
-</div>
-
----
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wiltsuo)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Wiltsuo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilcampos2003@gmail.com)
@@ -174,7 +164,17 @@ After **6 years living and working in Japan**, I’m now pursuing my passion for
 
 ✨ **Versatile, International & Passionate Developer** ✨  
 🌟 *Open to opportunities | Aberto a oportunidades | 機会を求めています* 🌟  
+---
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilTsuo&theme=radical" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilTsuo&theme=radical&utcOffset=+0" width="45%"/>
+</div>
+
+---
 <img src="https://github-readme-streak-stats.herokuapp.com?user=WilTsuo&theme=radical&hide_border=true" width="90%"/>
 
 </div>
