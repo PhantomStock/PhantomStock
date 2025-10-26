@@ -7,6 +7,42 @@
 </div>
 
 ---
+## 🇧🇷 Português
+
+### Sobre Mim
+Desenvolvedor brasileiro nascido em **São José dos Campos**, com uma experiência internacional única que combina vivência industrial e habilidades em desenvolvimento de software. Após passar **6 anos morando e trabalhando no Japão**, estou atualmente seguindo minha paixão por tecnologia no **Politécnico de Leiria**.
+
+### 🏭 Experiência Profissional
+- **Yamaha Motor Corporation (Japão)** - Especialista em manufatura na produção de peças para motos e barcos
+- **ASTI** - Técnico em soldagem de placas eletrônicas
+
+### 🎓 Educação
+**Politécnico de Leiria** - Escola Superior de Tecnologia e Gestão  
+**Programação de Sistemas de Informação** - Atualmente no 2º Ano, 1º Semestre
+
+### 💻 Competências Técnicas
+
+**Linguagens de Programação:**
+- C, C#, Java, JavaScript, PHP
+- HTML, CSS, XML
+
+**Frameworks:**
+- Yii2 Framework
+- PHP Active-Record
+- Entity Framework
+- ASP.NET Core
+
+**Desenvolvimento Mobile:**
+- Android
+
+### 🎯 Atualmente
+🔍 **À procura de estágio** e mais oportunidades para crescer na área de desenvolvimento de software.
+
+### 📫 Contacto
+📧 wilcampos2003@gmail.com
+
+
+---
 
 ## 🇬🇧 English
 
@@ -48,42 +84,6 @@ Brazilian developer born in **São José dos Campos**, with a unique internation
 🔍 **Actively seeking internship opportunities** to grow and develop in the software development field.
 
 ### 📫 Contact
-📧 wilcampos2003@gmail.com
-
----
-
-## 🇧🇷 Português
-
-### Sobre Mim
-Desenvolvedor brasileiro nascido em **São José dos Campos**, com uma experiência internacional única que combina vivência industrial e habilidades em desenvolvimento de software. Após passar **6 anos morando e trabalhando no Japão**, estou atualmente seguindo minha paixão por tecnologia no **Politécnico de Leiria**.
-
-### 🏭 Experiência Profissional
-- **Yamaha Motor Corporation (Japão)** - Especialista em manufatura na produção de peças para motos e barcos
-- **ASTI** - Técnico em soldagem de placas eletrônicas
-
-### 🎓 Educação
-**Politécnico de Leiria** - Escola Superior de Tecnologia e Gestão  
-**Programação de Sistemas de Informação** - Atualmente no 2º Ano, 1º Semestre
-
-### 💻 Competências Técnicas
-
-**Linguagens de Programação:**
-- C, C#, Java, JavaScript, PHP
-- HTML, CSS, XML
-
-**Frameworks:**
-- Yii2 Framework
-- PHP Active-Record
-- Entity Framework
-- ASP.NET Core
-
-**Desenvolvimento Mobile:**
-- Android
-
-### 🎯 Atualmente
-🔍 **À procura de estágio** e mais oportunidades para crescer na área de desenvolvimento de software.
-
-### 📫 Contacto
 📧 wilcampos2003@gmail.com
 
 ---
