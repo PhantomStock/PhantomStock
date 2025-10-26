@@ -6,7 +6,13 @@
 
 ---
 
-<img src="https://github.com/DenverCoder1/profile-3d-contrib/assets/83606309/2b6ff29f-7af1-45d2-90c7-35c72bb4c4e4" width="800" alt="3D DevCard"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WilTsuo&theme=radical" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WilTsuo&theme=radical" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WilTsuo&theme=radical&utcOffset=+0" width="45%"/>
+</div>
 
 ---
 
