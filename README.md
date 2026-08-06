@@ -2,12 +2,12 @@
 
 <h1>Core — what I work in daily and am deepening</h1>
 
-<img src="https://skillicons.dev/icons?i=ts,nestjs,react,postgres,tailwind,docker" height="52" alt="TypeScript, NestJS, React, PostgreSQL, Tailwind, Docker" />
+<img src="https://skillicons.dev/icons?i=ts,nestjs,react,postgres,tailwind,docker,aws,nodejs" height="52" alt="TypeScript, NestJS, React, PostgreSQL, Tailwind, Docker, AWS,Node.js," />
 
 Also worked with — from coursework, my internship and side projects
 
-<img src="https://skillicons.dev/icons?i=js,php,java,cs,c,python,dotnet,nodejs,mysql" height="44" alt="JavaScript, PHP, Java, C#, C, Python, .NET, Node.js, MySQL" />
-<img src="https://skillicons.dev/icons?i=html,css,androidstudio,aws,git,github,jest,figma,linux" height="44" alt="HTML, CSS, Android, AWS, Git, GitHub, Jest, Figma, Linux" />
+<img src="https://skillicons.dev/icons?i=js,php,java,cs,c,python,dotnet,mysql" height="44" alt="JavaScript, PHP, Java, C#, C, Python, .NET, MySQL" />
+<img src="https://skillicons.dev/icons?i=html,css,androidstudio,git,github,jest,figma,linux" height="44" alt="HTML, CSS, Android, AWS, Git, GitHub, Jest, Figma, Linux" />
 <br>
 <h1>Recent Projects</h1>
 
